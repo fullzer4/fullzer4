@@ -9,5 +9,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullzer4&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div>
-  <img align="right" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fanime-boy-thinking-staring-out-gif-22489703&psig=AOvVaw1UJMfSq0AgbdChZ6qfoKhT&ust=1645653168045000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCp1fallPYCFQAAAAAdAAAAABAU">
+  <img align="right" src"![anime-boy](https://user-images.githubusercontent.com/53914594/155226481-dd490e8e-e975-4378-8d54-63cb091718bf.gif)">
 </div>
