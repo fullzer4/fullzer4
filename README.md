@@ -9,5 +9,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullzer4&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div>
-  <img align="right" src"![anime-boy](https://user-images.githubusercontent.com/53914594/155226481-dd490e8e-e975-4378-8d54-63cb091718bf.gif)">
+  <img align="right" src"![anime-gif](https://github.com/fullzer4/fullzer4/issues/1#issue-1147411399)">
 </div>
