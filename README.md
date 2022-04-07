@@ -1,6 +1,6 @@
 ### Oioi! Sou o Gabriel Pelizzaro, bem vindo👋 
 
-- 🐱‍💻 Estudando: Html Css Js
+- 🐱‍💻 Estudando: Html Css Js e python
 - 😄 Pronomes: Ele/Dele
 - 💻 Fazendo ensino médio tecnico no SesiSenai (Escola S)
 <div>
