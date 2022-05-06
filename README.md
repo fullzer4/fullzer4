@@ -1,6 +1,6 @@
 ### Oioi! Sou o Gabriel Pelizzaro, bem vindo👋 
 
-- 🐱‍💻 Estudando: React, React-native e python
+- 🐱‍💻 Estudando: Js, React, React-native e python
 - 😄 Pronomes: Ele/Dele
 - 💻 Fazendo ensino médio tecnico no SesiSenai (Escola S)
 <div>
