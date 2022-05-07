@@ -3,7 +3,7 @@
 - 🐱‍💻 Estudando: Js, React, React-native e python
 - 😄 Pronomes: Ele/Dele
 - 💻 Fazendo ensino médio tecnico no SesiSenai (Escola S)
-- 👻 Meu protifolio : https://fullzer4s.netlify.app
+- 👻 Meu protifolio : https://fullzer4s.netlify.app (beta)
 <div>
   <a href="https://github.com/fullzer4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
