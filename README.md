@@ -1,14 +1,16 @@
 <h1 align="center"> Oioi! Sou o Gabriel Pelizzaro, bem vindo👋 </h1> 
 
 <div align="center">
-  🐱‍💻 Estudando: Js, React, React-native e python
-  <br>
-  😄 Pronomes: Ele/Dele
-  <br>
-  💻 Fazendo ensino médio tecnico no SesiSenai (Escola S)
-  <br>
-  👻 Meu portfólio : https://fullzer4s.netlify.app
-  <p></p>
+  <h3>
+    🐱‍💻 Estudando: Js, React, React-native e python
+    <br>
+    😄 Pronomes: Ele/Dele
+    <br>
+    💻 Fazendo ensino médio tecnico no SesiSenai (Escola S)
+    <br>
+    👻 Meu portfólio : https://fullzer4s.netlify.app
+    <p></p>
+  </h3>
 <div>
   <img align="right" top="0" src="https://media4.giphy.com/media/PxPpgbzViGCD6/giphy.gif?cid=ecf05e474jbvk0m1t1gq0ubrirsbtl7orgwfg4tq6pj2fx3h&rid=giphy.gif&ct=g" height="250" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
