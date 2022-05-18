@@ -1,12 +1,16 @@
-### Oioi! Sou o Gabriel Pelizzaro, bem vindo👋 
+<h1 align="center"> Oioi! Sou o Gabriel Pelizzaro, bem vindo👋 </h1> 
 
-- 🐱‍💻 Estudando: Js, React, React-native e python
-- 😄 Pronomes: Ele/Dele
-- 💻 Fazendo ensino médio tecnico no SesiSenai (Escola S)
-- 👻 Meu portfólio : https://fullzer4s.netlify.app
-  
+<div align="center">
+  🐱‍💻 Estudando: Js, React, React-native e python
+  <br>
+  😄 Pronomes: Ele/Dele
+  <br>
+  💻 Fazendo ensino médio tecnico no SesiSenai (Escola S)
+  <br>
+  👻 Meu portfólio : https://fullzer4s.netlify.app
+  <p></p>
 <div>
-  <img align="right" src="https://media4.giphy.com/media/PxPpgbzViGCD6/giphy.gif?cid=ecf05e474jbvk0m1t1gq0ubrirsbtl7orgwfg4tq6pj2fx3h&rid=giphy.gif&ct=g" height="250" />
+  <img align="right" top="0" src="https://media4.giphy.com/media/PxPpgbzViGCD6/giphy.gif?cid=ecf05e474jbvk0m1t1gq0ubrirsbtl7orgwfg4tq6pj2fx3h&rid=giphy.gif&ct=g" height="250" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40"  src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,7 +19,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
-</div>
 
  ## 
   
