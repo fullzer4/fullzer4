@@ -13,7 +13,7 @@
 ##
   
 <div>
-  <img align="right" src="[https://media.giphy.com/media/ZtB2l3jHiJsFa/giphy.gif](https://media.giphy.com/media/G96GQDKnFv6py/giphy.gif)" height="250" />
+  <img align="right" src="https://media1.giphy.com/media/G96GQDKnFv6py/giphy.gif?cid=ecf05e47np9lgcbdsepxwel44eq9fljcfecan4l4py4gozn5&rid=giphy.gif&ct=g" height="250" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
