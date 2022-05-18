@@ -37,7 +37,7 @@
   <h2> Projetos Online feitos por mim: 🧠 </h2>
   <h3>
     Portifolio : https://fullzer4s.netlify.app [Html, Css, Js]
+    <br>
     CalculateAll : (sendo feito) [React, Css, Js]
   </h3>
-  <br>
 </div> 
