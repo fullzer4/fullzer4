@@ -34,5 +34,5 @@
 
 ### Projetos Online feitos por mim: 🧠
 
-- Portifolio : https://fullzer4s.netlify.app
-- CalculateAll : (sendo feito)
+- Portifolio : https://fullzer4s.netlify.app [Html, Css, Js]
+- CalculateAll : (sendo feito) [React, Css, Js]
