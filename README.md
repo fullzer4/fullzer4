@@ -33,9 +33,8 @@
   <a href="https://www.linkedin.com/in/gabrielpereira-sc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
   
-<div align="center">
-  ###Projetos Online feitos por mim: 🧠
+###Projetos Online feitos por mim: 🧠
 
-  - Portifolio : https://fullzer4s.netlify.app [Html, Css, Js]
-  - CalculateAll : (sendo feito) [React, Css, Js]
-</div>
+- Portifolio : https://fullzer4s.netlify.app [Html, Css, Js]
+- CalculateAll : (sendo feito) [React, Css, Js]
+
