@@ -2,9 +2,9 @@
 
 <div align="center">
   <h3>
-    📍 Florianópolis, Brazil
-    <br>
     🐱‍💻 Estuding: Js, React, React-native e python
+    <br>
+    📍 Florianópolis, Brazil
     <br>
     😄 pronouns: he/his
     <br>
