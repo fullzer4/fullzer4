@@ -2,13 +2,15 @@
 
 <div align="center">
   <h3>
-    🐱‍💻 Estudando: Js, React, React-native e python
+    📍 Florianópolis, Brazil
     <br>
-    😄 Pronomes: Ele/Dele
+    🐱‍💻 Estuding: Js, React, React-native e python
     <br>
-    💻 Fazendo ensino médio tecnico no SesiSenai (Escola S)
+    😄 pronouns: he/his
     <br>
-    👻 Meu portfólio : https://fullzer4s.netlify.app
+    💻 Doing technical high school at SesiSenai (Escola S)
+    <br>
+    👻 my portfolio : https://fullzer4s.netlify.app
     <p></p>
   </h3>
 <div>
