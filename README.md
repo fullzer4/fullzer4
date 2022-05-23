@@ -1,4 +1,4 @@
-<h1 align="center"> Oioi! Sou o Gabriel Pelizzaro, bem vindo👋 </h1> 
+<h1 align="center"> Hi! I'm Gabriel Pelizzaro👋 </h1> 
 
 <div align="center">
   <h3>
