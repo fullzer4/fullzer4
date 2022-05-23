@@ -4,7 +4,7 @@
   <h3>
     🐱‍💻 Estuding: Js, React, React-native e python
     <br>
-    📍 Florianópolis, Brazil
+    📍 Florianópolis, SC, Brazil
     <br>
     😄 pronouns: he/his
     <br>
