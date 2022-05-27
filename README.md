@@ -43,12 +43,12 @@
   <h3>
     Portfolio : https://fullzer4s.netlify.app [Html, Css, Js]
     <br>
-    CalculateAll : (sendo feito) [React, Css, Js]
+    CalculateAll : (working) [React, Css, Js]
   </h3>
   <h2> Basics </h2>
   <h3>
-    Counter : (sendo feito) [React, Css, Js]
+    Counter : (working) [React, Css, Js]
     <br>
-    Time : (sendo feito) [React, Css, Js]
+    Time : (working) [React, Css, Js]
   </h3>
 </div> 
