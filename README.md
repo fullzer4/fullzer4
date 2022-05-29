@@ -42,7 +42,7 @@
   <h3>
     Portfolio : https://fullzer4s.netlify.app [Html, Css, Js]
     <br>
-    CalculateAll : (working) [React, Css, Js]
+    CalculateAll : (working) [React, Css, Js, Ts, Express, Node, MongoDB]
     <br>
     Time : https://fullzer4time.netlify.app [React, Css, Js]
   </h3>
