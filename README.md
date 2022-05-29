@@ -33,7 +33,7 @@
 <div align="center">
   <h1> Python Projects:  🐍 </h1>
   <h3>
-    Capturing Cars in Motion : https://github.com/fullzer4/Capturing_Cars_in_Motion (testing) [OpenCV, Python]
+    Capturing Cars in Motion : https://github.com/fullzer4/Capturing_Cars_in_Motion (testing)
     <br>
  </h3>
 </div> 
