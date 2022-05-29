@@ -48,14 +48,6 @@
   </h3>
 </div> 
 <div align="center">
- <h1> Web Projects: 🧠 </h1>
- <h3>
-    Portfolio : https://fullzer4s.netlify.app [Html, Css, Js]
-    <br>
-    CalculateAll : (working) [React, Css, Js]
-    <br>
-    Time : https://fullzer4time.netlify.app [React, Css, Js]
- </h3>
   <h1> Python Projects:  🐍 </h1>
   <h3>
     Capturing Cars in Motion : (working) [OpenCV, Python]
