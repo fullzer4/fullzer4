@@ -39,14 +39,11 @@
 </div>  
 <div align="center">
   <h1> Web Projects: 🧠 </h1>
-  <h2> Advanced </h2>
   <h3>
     Portfolio : https://fullzer4s.netlify.app [Html, Css, Js]
     <br>
     CalculateAll : (working) [React, Css, Js]
-  </h3>
-  <h2> Basics </h2>
-  <h3>
+    <br>
     Time : https://fullzer4time.netlify.app [React, Css, Js]
   </h3>
 </div> 
