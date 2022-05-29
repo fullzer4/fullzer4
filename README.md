@@ -49,6 +49,6 @@
   <h3>
     Counter : (working) [React, Css, Js]
     <br>
-    Time : (working) [React, Css, Js]
+    Time : fullzer4time.netlify.app [React, Css, Js]
   </h3>
 </div> 
