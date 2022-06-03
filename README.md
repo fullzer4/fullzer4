@@ -10,7 +10,7 @@
     <br>
     💻 Doing technical high school at SesiSenai (Escola S)
     <br>
-    👻 my portfolio : https://fullzer4s.netlify.app
+    👻 my portfolio : https://fullzer4s.netlify.app [Html, Css, Js]
     <p></p>
   </h3>
 <div>
