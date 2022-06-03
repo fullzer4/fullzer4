@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    🐱‍💻 Estuding: Js, React, React-native e python
+    🐱‍💻 Studing: Js, React, React-native e python
     <br>
     📍 Florianópolis, SC, Brazil
     <br>
@@ -23,8 +23,6 @@
 <div align="center">
   <h1> Web Projects: 🧠 </h1>
   <h3>
-    Portfolio 2.0 : https://fullzer4s.netlify.app [Html, Css, Js]
-    <br>
     CalculateAll : (working) [React, Css, Js, Ts, Express, Node, MongoDB]
     <br>
     Time : https://fullzer4time.netlify.app [React, Css, Js]
