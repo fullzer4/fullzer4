@@ -30,7 +30,7 @@
   
 <h2 align="center"> Favorite Repos/Projects </h2> 
 
-<div align="center">
+<div align="left">
   <h3>ToDoList : https://todolist-yfullzer4.netlify.app/ [ React, Css, Js, Firebase ]</h3>
   <h3>Portfolio v3 : (working) [ React, Css, Js ]</h3>
   <h3>BrunaPARQ : (working) [ React, Css, Js ]</h3>
