@@ -27,6 +27,11 @@
   <img align="center" height="30"  width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
   <img align="center" height="30"  width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
 <div>
+<h2 align="center"> Social medias </h2> 
+  
+<div align="left">
+  
+<div>
   
 <h2 align="center"> Favorite Repos/Projects </h2> 
 
