@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    🐱‍💻 Studing: Js, React, React-native e python
+    🐱‍💻 Studing: Typescript, React, Nodejs, Mysql, MongoDB
     <br>
     📍 Florianópolis, SC, Brazil
     <br>
