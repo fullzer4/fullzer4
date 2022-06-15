@@ -49,13 +49,3 @@
   <a href = "mailto:gabrielpelizzaro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielpereira-sc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
-  
-<h2 align="center"> Favorite Repos/Projects </h2> 
-
-<div align="left">
-  <h3>ToDoList : https://todolist-yfullzer4.netlify.app/ [ React, Css, Js, Firebase ]</h3>
-  <h3>Time : https://fullzer4time.netlify.app/ [ React, Css, Js ]</h3>
-  <h3>Capturing_Cars_in_Motion : https://github.com/fullzer4/Capturing_Cars_in_Motion [ Python, Opencv ]</h3>
-  <h3>Projeto-Bone-Deficiente-Visual : https://github.com/fullzer4/Projeto-Bone-Deficiente-Visual [ Python ]</h3>
-  <h3>esp8266-NodeMCU-WifiBlynk : https://github.com/fullzer4/esp8266-Nodemcu-BlynkWifiLed [ C++ ]</h3>
-<div>
