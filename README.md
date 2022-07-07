@@ -37,6 +37,8 @@
    <img align="center" height="30"  width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg">
    <img align="center" height="30"  width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" height="30"  width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
+   <img align="center" height="30"  width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/electron/electron-original.svg">
+   <img align="center" height="30"  width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg">
   </div>
 <div>
 <h2 align="center"> Social medias </h2> 
