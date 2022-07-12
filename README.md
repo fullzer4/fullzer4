@@ -40,6 +40,9 @@
 <img align="center" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="center" height="30"  width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg">
   </div>
+  <div align="center">
+    <img align="center" title='Electron' height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> 
+  </div>
 
 <div>
 <h2 align="center"> Social medias </h2> 
