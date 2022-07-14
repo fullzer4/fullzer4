@@ -8,7 +8,7 @@
     <br>
     💻 Doing technical high school at SesiSenai (Escola S)
     <br>
-    👻 my portfolio : https://fullzer4s.netlify.app [Html, Css, Js]
+    👻 my portfolio : redoing
     <p></p>
   </h3>
   <div align="center">
