@@ -4,6 +4,8 @@
   <h3>
     🐱‍💻 Studing: Typescript, React, Nodejs, Mysql, MongoDB
     <br>
+    ☠️ Hobby: BugHunter
+    <br>
     📍 Florianópolis, SC, Brazil
     <br>
     💻 Doing technical high school at SesiSenai (Escola S)
