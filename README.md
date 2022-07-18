@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    🐱‍💻 Studing: Typescript, React, Nodejs, Mysql, MongoDB
+    🐱‍💻 Studing: Typescript, Nodejs, C++ and Python
     <br>
     ☠️ Hobby: BugHunter
     <br>
