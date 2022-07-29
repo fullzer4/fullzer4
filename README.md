@@ -4,7 +4,7 @@
   <h3>
     🐱‍💻 Studing: Typescript, Nodejs, C++ and Python
     <br>
-    ☠️ Hobby: BugHunter
+    ☠️ Hobby: IA Development
     <br>
     📍 Florianópolis, SC, Brazil
     <br>
