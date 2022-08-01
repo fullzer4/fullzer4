@@ -4,8 +4,6 @@
   <h3>
     🐱‍💻 Studing: Typescript, Nodejs, C++ and Python
     <br>
-    ☠️ Hobby: IA Development
-    <br>
     📍 Florianópolis, SC, Brazil
     <br>
     💻 Doing technical high school at SesiSenai (Escola S)
