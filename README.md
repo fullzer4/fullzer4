@@ -8,8 +8,9 @@
 - 🥱 Make videos on youtube [fullzer4](https://fullzer4.dev)
 - 👨‍💻 More at [fullzer4.dev](https://fullzer4.dev)
 
-<img align="left" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-
+<div align="center">
+  <img align="left" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
 <div align="center">
 
   ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)&nbsp;&nbsp;
