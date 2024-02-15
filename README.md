@@ -9,7 +9,7 @@
 - 👨‍💻 More at [fullzer4.dev](https://fullzer4.dev)
 
 <div align="center">
-  <img align="left" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img align="center" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 <div align="center">
 
