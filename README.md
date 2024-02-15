@@ -10,7 +10,7 @@
 
 <img align="left" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<h1></h1>
+<h1>Other links</h1>
 
 <div align="center" gap="20">
 
