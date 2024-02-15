@@ -8,7 +8,7 @@
 - 🥱 Make videos on youtube [fullzer4](https://fullzer4.dev)
 - 👨‍💻 More at [fullzer4.dev](https://fullzer4.dev)
 
-<img align="left" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+<img align="left" height="140em" width="400px" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 
 <div align="center">
 
