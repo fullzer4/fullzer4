@@ -1,5 +1,5 @@
 <div>
-  <img align="right" height="420em" src="./github.gif"/>
+  <img align="right" height="430em" src="./github.gif"/>
   <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm fullzer4  </h1>
 </div>
 
@@ -8,7 +8,7 @@
 - 🥱 Make videos on youtube [fullzer4](https://fullzer4.dev)
 - 👨‍💻 More at [fullzer4.dev](https://fullzer4.dev)
 
-<div align="center" width="500px">
+<div align="center">
   <img align="left" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 <div align="center">
