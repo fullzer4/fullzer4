@@ -10,6 +10,10 @@
 
 <img align="left" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 
+<div>
+  
+</div>
+
 <div align="center" gap="20">
 
   ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
