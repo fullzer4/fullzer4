@@ -12,16 +12,10 @@
 
 <div align="center" style="margin-top: 30px;">
 
-  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-  
-  <span><img src="./aligner.png" height=50 width=150 /></span>
+  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)&nbsp;
   
   ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-
-  <span><img src="./aligner.png" height=50 width=150 /></span>
   
   ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-  <span><img src="./aligner.png" height=50 width=150 /></span>
   
 </div>
