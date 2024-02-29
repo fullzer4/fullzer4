@@ -4,7 +4,6 @@
 </div>
 
 - 🔥 Active researcher in data science & Software Developer
-- 🥵 Enter in my discord channel [fullclub]()
 - 🥱 Make videos on youtube [fullzer4](https://fullzer4.dev)
 - 👨‍💻 More at [fullzer4.dev](https://fullzer4.dev)
 
